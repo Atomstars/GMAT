@@ -12,11 +12,11 @@ import { LineChart, Line, ResponsiveContainer, Tooltip, XAxis } from "recharts";
 const containerVariants = {
   hidden: {},
   show: { transition: { staggerChildren: 0.07 } },
-};
+} as const;
 const cardVariants = {
   hidden: { opacity: 0, y: 16 },
   show: { opacity: 1, y: 0, transition: { type: "spring", stiffness: 400, damping: 30 } },
-};
+} as const;
 
 export default function DashboardPage() {
   const [mounted, setMounted] = useState(false);

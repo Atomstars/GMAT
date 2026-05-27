@@ -38,7 +38,7 @@ function fmtSeconds(s: number): string {
 const cardV = {
   hidden: { opacity: 0, y: 16 },
   show: { opacity: 1, y: 0, transition: { type: "spring", stiffness: 400, damping: 30 } },
-};
+} as const;
 
 export default function ProgressPage() {
   const [mounted, setMounted] = useState(false);
