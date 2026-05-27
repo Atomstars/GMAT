@@ -8,15 +8,23 @@ import type { Section, Category, Chapter, Exercise, Question, SubmissionResult }
 function useTimer() {
   const [seconds, setSeconds] = useState(0);
   const [running, setRunning] = useState(false);
-  const ref = useRef<ReturnType<typeof setInterval> | null>(null);
+  const ref = useRef<any>(null);
   const reset = useCallback(() => { setSeconds(0); }, []);
   const start = useCallback(() => { setRunning(true); }, []);
   const stop = useCallback(() => { setRunning(false); }, []);
 
   useEffect(() => {
-    if (running) ref.current = setInterval(() => setSeconds(s => s + 1), 1000);
-    else clearInterval(ref.current);
-    return () => clearInterval(ref.current);
+    if (running) {
+      ref.current = setInterval(() => setSeconds(s => s + 1), 1000);
+    } else if (ref.current) {
+      clearInterval(ref.current);
+      ref.current = null;
+    }
+    return () => {
+      if (ref.current) {
+        clearInterval(ref.current);
+      }
+    };
   }, [running]);
 
   const fmt = `${String(Math.floor(seconds / 60)).padStart(2, "0")}:${String(seconds % 60).padStart(2, "0")}`;
