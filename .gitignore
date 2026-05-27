@@ -44,3 +44,5 @@ extractor/data/__pycache__/
 
 # Images (keep the cropped question images - they are assets)
 # extractor/images/  <-- keep this
+
+.vercel
