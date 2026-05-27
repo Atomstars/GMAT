@@ -1,0 +1,268 @@
+1 | Title Page | 2
+1 | Acknowledgments | 3
+1 | Copyright | 4
+1 | Table of Contents | 8
+1 | Unit One: Quant and DI Intro; FDPRs | 27
+2 | Chapter 1. How Quant and DI Work | 29
+3 | Scoring on the GMAT | 32
+3 | Changing Your Answers | 32
+3 | Content | 33
+3 | The Six Problem Types | 34
+3 | Data Sufficiency | 36
+3 | Table Analysis | 37
+3 | Graphics Interpretation | 38
+3 | Multi-Source Reasoning | 39
+3 | Two-Part Analysis | 42
+3 | Content and Strategy on the GMAT | 43
+3 | Understand, Plan, Solve | 44
+2 | Chapter 2. Math Fundamentals | 48
+3 | Subtraction of Expressions | 51
+3 | Fraction Bars as Grouping Symbols | 52
+3 | Fractions, Decimals, and Percents | 53
+3 | Common FDP Equivalents | 54
+3 | Converting among Fractions, Decimals, and Percents | 55
+3 | When to Use Which Form | 57
+3 | Problem Set | 58
+3 | Solutions | 59
+2 | Chapter 3. Data Sufficiency 101 | 63
+3 | How Data Sufficiency Works | 65
+3 | The Answer Choices | 70
+3 | Starting with Statement (2) | 75
+3 | Value vs. Yes/No vs. Choose One Questions | 79
+3 | The DS Process | 84
+3 | Testing Cases | 89
+3 | Test Cases Redux | 97
+3 | The C-Trap | 99
+3 | Avoid Statement Carryover | 103
+3 | Guessing Strategies | 105
+3 | Problem Set | 108
+3 | Solutions | 109
+2 | Chapter 4. Fractions and Ratios | 114
+3 | Ratio Labels | 119
+3 | Types of Fractions | 119
+3 | Numerator and Denominator Rules | 120
+3 | Simplifying Fractions and Ratios | 122
+3 | Simplify Before You Multiply | 123
+3 | Add and Subtract Fractions: Use a Common Denominator | 124
+3 | Dividing Fractions: Use the Reciprocal | 125
+3 | Split Up Double-Decker Fractions | 126
+3 | The Unknown Multiplier | 127
+3 | Comparing Fractions: The Double-Cross | 131
+3 | Multiple Ratios: Make a Common Term | 133
+3 | Complex Fractions: Don’t Split the Denominator | 135
+3 | Relative Values and Data Sufficiency | 136
+3 | Problem Set | 138
+3 | Solutions | 140
+2 | Chapter 5. Strategy: Estimation | 147
+3 | How to Estimate | 149
+3 | When to Estimate | 152
+3 | Using Benchmarks to Estimate | 154
+3 | Problem Set | 156
+3 | Solutions | 158
+2 | Chapter 6. Percents | 162
+3 | Percents as Decimals: Move the Decimal | 164
+3 | Percent, Of, Is, What | 165
+3 | Fast Math: Percent Benchmarks | 167
+3 | Percent Increase and Decrease | 169
+3 | Increasing or Decreasing from the Original | 171
+3 | Successive Percent Change | 172
+3 | Problem Set | 174
+3 | Solutions | 176
+2 | Chapter 7. Strategy: Arithmetic vs. Algebra 101 | 189
+3 | Test Cases | 193
+3 | Choose Smart Numbers | 194
+3 | Work Backwards | 197
+3 | Summary: TC, SN, WB | 202
+3 | Good Numbers for Test Cases | 203
+3 | Good Numbers for Smart Numbers | 206
+3 | PS Pop Quiz: Smart Numbers or Test Cases? | 210
+3 | Avoid 0 or 1 When Choosing Smart Numbers | 215
+3 | Problem Set | 218
+3 | Solutions | 221
+2 | Chapter 8. Table Analysis | 231
+3 | UPS for Tables | 234
+3 | Sort, Eyeball, and Estimate | 241
+3 | Review and Improve on Tables | 251
+2 | Chapter 9. Digits and Decimals | 259
+3 | Digits | 261
+3 | Decimals | 262
+3 | Place Value | 262
+3 | Rounding to the Nearest Place Value | 264
+3 | Powers of 10: Shifting the Decimal | 264
+3 | Decimal Operations | 266
+3 | Problem Set | 269
+3 | Solutions | 270
+2 | Chapter 10. Graphics Interpretation | 272
+3 | UPS for Graphs | 276
+3 | Types of Graphs | 279
+3 | Review and Improve on Nonstandard Graphs | 297
+3 | Review and Improve on Standard Graphs | 302
+1 | Unit Two: Algebra | 307
+2 | Chapter 11. Linear Equations and Combos | 309
+3 | Expressions vs. Equations | 311
+3 | Solving One-Variable Equations | 313
+3 | Two Variables: Solving by Substitution | 314
+3 | Two Variables: Solving by Elimination | 316
+3 | Two Variables: Solving for the Combo | 317
+3 | Absolute Value Equations | 321
+3 | Problem Set | 322
+3 | Solutions | 324
+2 | Chapter 12. Exponents | 330
+3 | All About the Base | 332
+3 | Combining Exponential Terms with Common Bases | 335
+3 | Fractions and Exponents | 338
+3 | Factoring Out a Common Term | 339
+3 | Equations with Exponents | 341
+3 | Same Base or Same Exponent | 343
+3 | Problem Set | 344
+3 | Solutions | 345
+2 | Chapter 13. Roots | 352
+3 | Roots and Fractional Exponents | 355
+3 | Simplifying a Root | 356
+3 | Imperfect vs. Perfect Squares | 359
+3 | Memorize: Squares and Square Roots | 360
+3 | Memorize: Cubes and Cube Roots | 362
+3 | Problem Set | 362
+3 | Solutions | 363
+2 | Chapter 14. Quadratic Equations | 367
+3 | Factoring Quadratic Equations | 369
+3 | Disguised Quadratics | 371
+3 | Taking the Square Root | 373
+3 | Going in Reverse: Use FOIL | 374
+3 | One-Solution Quadratics | 375
+3 | Zero in the Denominator: Undefined | 375
+3 | The Three Special Products | 376
+3 | Problem Set | 377
+3 | Solutions | 378
+2 | Chapter 15. Formulas | 382
+3 | Plug-In Formulas | 384
+3 | Functions | 385
+3 | Variable Substitution in Functions | 387
+3 | Sequence Formulas | 388
+3 | Recursive Sequences | 389
+3 | Linear Sequence Problems: Alternative Method | 390
+3 | Problem Set | 390
+3 | Solutions | 391
+2 | Chapter 16. Inequalities and Max/Min | 396
+3 | Flip the Sign | 399
+3 | Combining Inequalities: Line ‘Em Up! | 400
+3 | Manipulating Compound Inequalities | 402
+3 | Combining Inequalities: Add ‘Em Up! | 402
+3 | Maximizing and Minimizing | 403
+3 | Square-Rooting Inequalities | 405
+3 | Problem Set | 406
+3 | Solutions | 408
+1 | Unit Three: Stories and Stats | 415
+2 | Chapter 17. Translations | 417
+3 | Pay Attention to Units | 424
+3 | Common Relationships | 426
+3 | Draw It Out | 427
+3 | Maximizing and Minimizing | 431
+3 | Write Out the Scenarios | 434
+3 | Problem Set | 437
+3 | Solutions | 439
+2 | Chapter 18. Multi-Source Reasoning | 446
+3 | UPS for MSR | 450
+3 | Review and Improve on MSR | 461
+2 | Chapter 19. Statistics | 474
+3 | Averages | 476
+3 | Using the Average Formula | 477
+3 | Median: The Middle Number | 479
+3 | Standard Deviation | 480
+3 | Problem Set | 482
+3 | Solutions | 483
+2 | Chapter 20. Weighted Averages | 488
+3 | The Algebraic Method | 491
+3 | The Teeter-Totter Method | 492
+3 | Mixtures, Percents, and Ratios | 498
+3 | Problem Set | 501
+3 | Solutions | 502
+2 | Chapter 21. Two-Part Analysis | 507
+3 | UPS for Quant Two-Parts | 511
+3 | UPS for Verbal Two-Parts | 515
+3 | UPS for Logic Two-Parts | 523
+2 | Chapter 22. Rates and Work | 529
+3 | Basic Motion: RTD Chart or Draw It Out | 531
+3 | Matching Units in the RTD Chart | 535
+3 | Multiple Rates | 537
+3 | Relative Rates | 539
+3 | Average Rate: Find the Total Time | 541
+3 | Basic Work Problems | 543
+3 | Working Together: Add the Rates | 545
+3 | Problem Set | 548
+3 | Solutions | 550
+2 | Chapter 23. Overlapping Sets | 558
+3 | The Double-Set Matrix | 560
+3 | Overlapping Sets and Percents | 563
+3 | Overlapping Sets and Algebraic Representation | 565
+3 | Problem Set | 567
+3 | Solutions | 568
+2 | Chapter 24. Strategy: Arithmetic vs. Algebra 201 | 571
+3 | Choosing Numbers for Smart Numbers | 575
+3 | Pick for Any Unknown on Smart Numbers | 577
+3 | Smart Numbers Disguised as Working Backwards | 579
+3 | Draw It Out and Work Backwards | 580
+3 | Problem Set | 583
+3 | Solutions | 585
+2 | Chapter 25. Consecutive Integers | 593
+3 | Evenly Spaced Sets | 595
+3 | Counting Integers: Add 1 Before You Are Done | 596
+3 | Properties of Evenly Spaced Sets | 598
+3 | The Sum of Consecutive Integers | 599
+3 | Problem Set | 600
+3 | Solutions | 600
+2 | Chapter 26. Logic Problems | 604
+3 | Conditional Logic | 607
+3 | Creating Conditional Logic Chains | 617
+3 | Compound Conditionals | 618
+3 | Spatial Logic | 624
+3 | Problem Set | 631
+3 | Solutions | 632
+1 | Unit Four: Number Properties and More | 640
+2 | Chapter 27. Divisibility and Primes | 642
+3 | Arithmetic Rules | 644
+3 | Rules of Divisibility by Certain Integers | 645
+3 | Factors and Multiples | 647
+3 | Fewer Factors, More Multiples | 648
+3 | Divisibility and Addition/Subtraction | 649
+3 | Primes | 650
+3 | Prime Factorization | 651
+3 | Factor Foundation Rule | 651
+3 | The Prime Box | 653
+3 | Remainders | 654
+3 | Problem Set | 656
+3 | Solutions | 657
+2 | Chapter 28. Odds, Evens, Positives, and Negatives | 662
+3 | Arithmetic Rules of Odds and Evens | 664
+3 | Positives and Negatives | 666
+3 | Absolute Value: Absolutely Positive | 666
+3 | A Double Negative = A Positive | 667
+3 | Multiplying and Dividing Signed Numbers | 667
+3 | Number Property Disguises | 668
+3 | The Sum of Two Primes | 670
+3 | Problem Set | 671
+3 | Solutions | 672
+2 | Chapter 29. Combinatorics | 674
+3 | The Words OR and AND | 676
+3 | Arranging Groups | 679
+3 | Arranging Groups Using the Anagram Grid | 679
+3 | Multiple Groups | 682
+3 | Problem Set | 683
+3 | Solutions | 684
+2 | Chapter 30. Probability | 686
+3 | Calculate the Numerator and Denominator Separately | 689
+3 | More Than One Event: AND vs. OR | 690
+3 | P(A) + P(Not A) = 1 | 691
+3 | The 1 − x Probability Trick | 691
+3 | Problem Set | 692
+3 | Solutions | 693
+2 | Chapter 31. Coordinate Plane | 696
+3 | Positive and Negative Quadrants | 699
+3 | The Slope of a Line | 699
+3 | The Four Types of Slopes | 701
+3 | The Intercepts of a Line | 702
+3 | Slope-Intercept Equation: y = mx + b | 703
+3 | Horizontal and Vertical Lines | 706
+3 | The Distance Between Two Points | 707
+3 | Problem Set | 709
+3 | Solutions | 709

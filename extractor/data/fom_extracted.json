@@ -1,0 +1,971 @@
+[
+  {
+    "question_number": 10,
+    "stem": "24",
+    "statements": null,
+    "options": {
+      "A": "6 \u22127",
+      "B": "1 \u221219",
+      "C": "11. \u221210 \u2212 (\u22123)2 \u22121"
+    },
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_1_10.png"
+  },
+  {
+    "question_number": 12,
+    "stem": "615",
+    "statements": null,
+    "options": {
+      "A": "437",
+      "B": "163",
+      "C": "13. 7(4) + 7(3) + 7(2) + 7(1) 14. 3 \u00d7 99 \u2212 2 \u00d7 99 \u2212 1 \u00d7 99 DRILL 3 Combine as many like terms as possible."
+    },
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_1_12.png"
+  },
+  {
+    "question_number": 15,
+    "stem": "16. 12xy 2 \u2212 6x 2 y 2 + (2)2 x 2 y 2",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": ": Group and combine like terms. 16. 12xy 2 \u2212 2x 2 y 2 : Simplify before grouping and combining like terms.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_1_15.png"
+  },
+  {
+    "question_number": 17,
+    "stem": "18. 12xy \u2212 (6x + 2y ) 19. 5x \u2212 (4x + 2 \u2212 (5x \u2212 3)) 20. \u03c0 2 r 2 \u2212 ( \u03c0 r + 2 \u03c0 r 2 ) + \u03c0 r 2 + \u03c0 2 r 2 + 2 \u03c0 r 21. 2x 2 \u2212 (2x )2 \u2212 22 \u2212 x 2",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": ": 18. 12xy \u2212 6x \u2212 2y : The terms in the parentheses are not like terms, so distribute the negative sign before grouping and combining like terms. 12xy \u2212 (6x + 2y ) = 12xy \u2212 6x \u2212 2y Note that you cannot actually combine any of the terms in this problem; none are like terms! 19. 6x \u2212 5: Work from the innermost parentheses out. 20. 2 \u03c0 2 r 2 + \u03c0r \u2212 \u03c0r 2 : 21. \u22123x 2 \u2212 4: 22. 4x 2 \u2212 2x : DRILL 4 23. \u2212a + b OR b \u2212 a : The minus sign in front of the left parenthesis can be interpreted as \u22121 times the expression (a \u2212 b ). Distribute the \u22121 to both terms in the parentheses: \u2212(a \u2212 b ) = (\u22121) \u00d7 (a \u2212 b ) = \u2212a + b . 24. 4m 2 + 8mn : Ordinarily, you see the Distributive Property in this form: a (b + c ) = ab + ac If you place a to the right of the parentheses, you can still distribute in the same way: (b + c )a = ba + ca This works because the order in which numbers are multiplied does not matter. The GMAT sometimes disguises a possible distribution by presenting it in this alternative form. (m + 2n )4m = 4m 2 + 8mn 25. 104rt \u2212 520rs : First, distribute normally. Then, combine like terms. 26. \u22123,700x + 6,300: 27. 6k 2 l \u2212 12k l 2 : First, distribute normally. Then, combine like terms.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_1_17.png"
+  },
+  {
+    "question_number": 22,
+    "stem": "DRILL 4 Distribute the following expressions. Simplify as necessary. 23. \u2212(a \u2212 b ) 24. (m + 2n )4m 25. 52r (2t \u2212 10s ) 26. (\u221237x + 63)102 27. 6k l (k \u2212 2l )",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_1_22.png"
+  },
+  {
+    "question_number": 28,
+    "stem": "29. d (d 2 \u2212 2d + 1) 30. xy 2 z (x 2 z + yz 2 \u2212 xy 2 )",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": ": Distribute carefully to keep track of the negative signs. 29. d 3 \u2212 2d 2 + d : Even though there are three terms inside the parentheses, distribution works exactly the same. Multiply d by every term in the parentheses. 30. x 3 y 2 z 2 + xy 3 z 3 \u2212 x 2 y 4 z : The term xy \u00b2z on the outside of the parentheses must be multiplied by each of the three terms inside the parentheses. Then simplify the expression as much as possible.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_1_28.png"
+  },
+  {
+    "question_number": 2,
+    "stem": "3. 7 \u22124 \u00d7 73",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_2.png"
+  },
+  {
+    "question_number": 4,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_4.png"
+  },
+  {
+    "question_number": 5,
+    "stem": "6. x 2 \u00d7 x 3 \u00d7 x 5",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_5.png"
+  },
+  {
+    "question_number": 7,
+    "stem": "DRILL 2 Simplify the following expressions by combining like terms. If the base is a number, leave the answer in exponential form (e.g., use 23 , not 8). 8. 34 \u00d7 32 \u00d7 3 9. y 7 \u00d7 y 8 \u00d7 y \u22126",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_7.png"
+  },
+  {
+    "question_number": 10,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_10.png"
+  },
+  {
+    "question_number": 11,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_11.png"
+  },
+  {
+    "question_number": 12,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_12.png"
+  },
+  {
+    "question_number": 13,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_13.png"
+  },
+  {
+    "question_number": 14,
+    "stem": "DRILL 3 Follow the directions for each question. 15. Compute the sum of . 16. Which of the following has the greatest value? \u2212(5)6",
+    "statements": null,
+    "options": {
+      "A": "6\u22125",
+      "B": "(\u22126)5",
+      "C": "(\u22125)6",
+      "D": "5\u22126 (\u22124)3",
+      "E": "17. Compute the sum of . 18. Which of the following is equal to ? 19. Which of the following has a value less than 1 ? (Select all that apply.) DRILL 4 Simplify the following expressions by finding common bases. If the base is a number, leave the answer in exponential form (e.g., use 23 , not 8). 20. 83 \u00d7 26"
+    },
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_3_14.png"
+  },
+  {
+    "question_number": 21,
+    "stem": "22. 254 \u00d7 1253 23. 9\u22122 \u00d7 272 24. 2\u22127 \u00d7 82 DRILL 5 Simplify the following expressions by pulling out as many common factors as possible. 25. 63 + 33 35",
+    "statements": null,
+    "options": {
+      "A": "39 36 (23 ) 52 23 412 + 36",
+      "B": "2(33 ) 314 52 32 43 (32 )",
+      "C": "26. 812 \u2212 93 37 (2) 27. (\u22122)3 \u2212 (5)2 + (\u22124)3 28. 152 \u2212 52 52 (2) 29. 43 + 43 + 43 + 43 + 32 + 32 + 32 44 + 33"
+    },
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_3_21.png"
+  },
+  {
+    "question_number": 30,
+    "stem": "32 (8)",
+    "statements": null,
+    "options": {
+      "B": "33 (20)",
+      "C": "DRILL 6 Simplify the following expressions. All final answers should be integers."
+    },
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_3_30.png"
+  },
+  {
+    "question_number": 31,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_31.png"
+  },
+  {
+    "question_number": 32,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_32.png"
+  },
+  {
+    "question_number": 33,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_33.png"
+  },
+  {
+    "question_number": 34,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_34.png"
+  },
+  {
+    "question_number": 35,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_35.png"
+  },
+  {
+    "question_number": 36,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_36.png"
+  },
+  {
+    "question_number": 37,
+    "stem": "DRILL 7 Simplify the following roots. Not every answer will be an integer.",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_37.png"
+  },
+  {
+    "question_number": 38,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": ": If needed, use a factor tree to break down large numbers.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_3_38.png"
+  },
+  {
+    "question_number": 39,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": ":",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_3_39.png"
+  },
+  {
+    "question_number": 40,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": ":",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_3_40.png"
+  },
+  {
+    "question_number": 41,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": ":",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_3_41.png"
+  },
+  {
+    "question_number": 42,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": ":",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_3_42.png"
+  },
+  {
+    "question_number": 43,
+    "stem": "DRILL 8 Simplify the following roots. You will be able to eliminate the root completely in every question. Express answers as integers.",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": ": DRILL 8 44. 28: Pull out the greatest common factor of 352 and 212 , namely 72 . Both 72 and 16 are perfect squares (16 = 42 ). Therefore: 45. 1,210: Pull out the greatest common factor of 114 and 115 , namely 114 . (10)(10) is the same as 102 . The other term, 114 , is also a perfect square (114 = 112 \u00d7 112 ). Pull the squares out of the square root. 46. 192: Pull out the greatest common factor of 84 and 85 , namely 84 . Both 84 and 32 are perfect squares (84 = 82 \u00d7 82 ). Therefore: 47. 24: Pull out the greatest common factor of 29 , 27 , and 26 , namely 26 . Both 26 and 32 are perfect squares (26 = 23 \u00d7 23 ). Therefore: 48. 350: Pull out the greatest common factor of 503 and 502 , namely 502 . 49. 130: First focus on the numerator of the fraction. Pull out the greatest common factor of 134 and 132 , namely 132 . The denominator (17) divides evenly into 170, and the remaining terms are perfect squares: 50. 275: Pull out the greatest common factor of 57 , 55 , and 54 , namely 54 . Both 54 and 112 are perfect squares (54 = 52 \u00d7 52 ). Therefore:",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_3_43.png"
+  },
+  {
+    "question_number": 44,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_44.png"
+  },
+  {
+    "question_number": 45,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_45.png"
+  },
+  {
+    "question_number": 46,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_46.png"
+  },
+  {
+    "question_number": 47,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_47.png"
+  },
+  {
+    "question_number": 48,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_48.png"
+  },
+  {
+    "question_number": 49,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_49.png"
+  },
+  {
+    "question_number": 50,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_3_50.png"
+  },
+  {
+    "question_number": 2,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "When denominators are the same and the fractions are positive, the greater numerator is the greater fraction. The numerator of is greater, so .",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_2.png"
+  },
+  {
+    "question_number": 3,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "When numerators are the same and the fractions are positive, the smaller denominator is the greater fraction. The denominator of is smaller, so",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_3.png"
+  },
+  {
+    "question_number": 4,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "Finding a common denominator or using the double-cross would both involve ugly multiplication. Instead, estimate by using some things you know about fractions. In the first fraction, , the numerator is greater than the denominator, so the fraction is greater than 1. In the second fraction, the denominator is greater than the numerator, so the fraction is less than 1. Therefore,",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_4.png"
+  },
+  {
+    "question_number": 5,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "Use what you know about fractions to compare the relative size of these. The first fraction, , has both a greater numerator and a smaller denominator than the second fraction. Therefore, . Alternatively, eyeball their relative values. Both are less than 1, but not by the same amount. Compare each to an easier fraction, namely, . The first fraction, , is a little greater than The other, , is further away from , since so is the greater number.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_5.png"
+  },
+  {
+    "question_number": 6,
+    "stem": "DRILL 3 7. If there are 20 birds and 6 dogs in a park, which of the following is the ratio of dogs to birds? 3 : 13",
+    "statements": null,
+    "options": {
+      "A": "3 : 10 1 : 2 7 : 9 8 : 15",
+      "B": "10 : 3 2 : 1 9 : 7 7 : 8",
+      "C": "8. In a class of 24 students made up of only juniors and seniors, 12 are juniors. Which of the following is the ratio of juniors to seniors in the class? 1 : 1 9. If there are 45 red marbles and 35 green marbles in a bag, which of the following is the ratio of green to red marbles? 9 : 16 10. There are 21 trout and 24 catfish in a pond. There are no other fish in the pond. What is the ratio of catfish to the total number of fish in the pond? 7 : 15 DRILL 4 Add or subtract the following fractions. Put answers in their most simplified form. For any problems with variables in the denominator, assume that the denominator does not equal zero."
+    },
+    "question_type": "MCQ",
+    "official_explanation": "These numbers are ugly, so try simplifying and estimating. First, simplify each fraction by dropping the extra zeros. Now compare and . The first fraction is greater than 1 but less than 2, because 70 is less than twice 36 (2 \u00d7 36 = 72) . The second fraction is greater than 2, because 59 is more than twice 29 (2 \u00d7 29 = 58) . So . DRILL 3 7. (B) 3 : 10: The information was given in the order birds : dogs, but the question asks about dogs : birds. Make sure to put your answer in the correct order. If there are 6 dogs and 20 birds in the park, the ratio of dogs to birds is 6 : 20. Divide by 2 to simplify this ratio to its base form, 3 : 10. 8. (A) 1 : 1: If 12 of the 24 students in the class are juniors, then the remainder, 24 \u2212 12 = 12, are seniors. Therefore, the ratio of juniors to seniors in the class is 12 : 12. Divide by 12 to simplify the ratio to its base form, 1 : 1. 9. (B) 7 : 9: The question first presents the information in the order of red marbles to green, but the question asks about the ratio of green to red. There are 35 green to 45 red, or 35 : 45. Divide each number by 5 to simplify the ratio to its base form, 7 : 9. 10. (B) 8 : 15: If there are 21 trout and 24 catfish, then there are 21 + 24 = 45 total fish in the pond. The ratio of catfish to the total is therefore 24 : 45. Simplify the ratio to its base form. The number 3 is a factor of both numbers, so divide by 3 to get 8 : 15. DRILL 4",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_6.png"
+  },
+  {
+    "question_number": 11,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "The denominators don\u2019t share any factors, so use the double-cross. 12. 0: Reduce the first fraction before looking for a common denominator. Remove a factor of 4 from the numerator and the denominator.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_11.png"
+  },
+  {
+    "question_number": 12,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_4_12.png"
+  },
+  {
+    "question_number": 13,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "Find a common denominator and subtract. Because both 6 and 4 are factors of 12, 12 is the least common denominator. 14. (A) First, break out the square root signs. Then use the double-cross. Now, you can simplify. reduces to 7 and reduces to 5. 15. (B) Start by simplifying the individual fractions. Now, you have common denominators, so you can add and subtract. Glance at the answers. No match yet, but can you see a way to manipulate what you have to match one of the answers? Pull out a common factor on top. 16. (A) Glance at the answers. They aren\u2019t fractions, so there must be some way to eliminate the denominators. When you see a root on the bottom of a fraction, you can get rid of it by multiplying by that root over itself. In this case, the root is , so multiply the fraction by Simplify the terms before combining the fractions. DRILL 5",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_13.png"
+  },
+  {
+    "question_number": 14,
+    "stem": "",
+    "statements": null,
+    "options": {},
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_4_14.png"
+  },
+  {
+    "question_number": 15,
+    "stem": "",
+    "statements": null,
+    "options": {},
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_4_15.png"
+  },
+  {
+    "question_number": 16,
+    "stem": "",
+    "statements": null,
+    "options": {
+      "A": "4",
+      "C": "DRILL 5 Convert: If given an improper fraction, convert to a mixed number; if given a mixed number, convert to an improper fraction."
+    },
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_4_16.png"
+  },
+  {
+    "question_number": 17,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "18. 6: This one simplifies to an integer.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_17.png"
+  },
+  {
+    "question_number": 18,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_4_18.png"
+  },
+  {
+    "question_number": 19,
+    "stem": "DRILL 6 Simplify the following expressions. For any problems with variables in the denominator, assume that the denominator does not equal zero.",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "Via the shortcut, the numerator is (7)(6) + 3 = 45, and the denominator remains 7. Here\u2019s the full calculation. DRILL 6",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_19.png"
+  },
+  {
+    "question_number": 20,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "Begin by simplifying the square root in the numerator. When simplifying a square root, always look for factors that are perfect squares; in this example, 18 = 2 \u00d7 9 = 2 \u00d7 32 . The 32 can be removed from the square root to become 3. 21. 17: Eliminate any common factors. To find all common factors, rewrite larger numbers as their prime factors.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_20.png"
+  },
+  {
+    "question_number": 21,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_4_21.png"
+  },
+  {
+    "question_number": 22,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "To begin, simplify the square roots in the numerator and denominator by looking for pairs of factors (that is, perfect squares). Because the numbers remaining inside the square roots have a factor of 3 in common, it\u2019s useful to leave the numerator broken into the root of 2 and the root of 3. Therefore:",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_22.png"
+  },
+  {
+    "question_number": 23,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "There are two good ways to simplify a fraction with variables raised to powers. One approach is to use exponent rules to rewrite the expression so that the cancellations are more clear. Alternatively, use exponent rules to simplify directly. To combine these into one fraction, leave x 2 and z 2 in the numerator but place y in the denominator because . 24. 5b 2 : Begin by simplifying the square roots, then pull any squares out. Cancel common terms on the top and bottom. DRILL 7",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_23.png"
+  },
+  {
+    "question_number": 24,
+    "stem": "DRILL 7 Multiply or divide the following fractions. Put any resulting fractions in their most simplified form. For any problems with variables in the denominator, assume that the denominator does not equal zero.",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_4_24.png"
+  },
+  {
+    "question_number": 25,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "Flip the second fraction to multiply. 26. 1: Flip the second fraction to multiply.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_25.png"
+  },
+  {
+    "question_number": 26,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_4_26.png"
+  },
+  {
+    "question_number": 27,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "Combine everything into one fraction, with the entire numerator under one square root sign, and factor the larger numbers. Simplify the square roots by pulling out perfect squares, then simplify the fraction. 28. 3: To divide by a fraction, multiply by its reciprocal. Feel free to simplify the perfect squares as soon as you spot them.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_27.png"
+  },
+  {
+    "question_number": 28,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_4_28.png"
+  },
+  {
+    "question_number": 29,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "To divide, multiply by the reciprocal. If you\u2019d like, first rearrange to place the like terms together (to minimize careless mistakes). Cancel any terms that match exactly. For the remaining terms, use exponent rules to simplify the like variables. 30. 2: Begin by multiplying by the reciprocal. Break the larger numbers down into numbers with similar bases, then use exponent rules to simplify. DRILL 8 31. (C) Split this fraction into two fractions with a common denominator of 3ab , and then simplify further.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_29.png"
+  },
+  {
+    "question_number": 30,
+    "stem": "DRILL 8 Simplify the following fractions. For any problems with variables in the denominator, assume that the denominator does not equal zero.",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_4_30.png"
+  },
+  {
+    "question_number": 31,
+    "stem": "",
+    "statements": null,
+    "options": {},
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_4_31.png"
+  },
+  {
+    "question_number": 32,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "Be careful when dealing with addition or subtraction in the denominator; you can\u2019t split these into two separate fractions. Instead, look for a common term that you can cancel.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_32.png"
+  },
+  {
+    "question_number": 33,
+    "stem": "DRILL 9 Simplify the following expressions. Simplify any fractions fully, but it is not necessary to convert improper fractions into mixed fractions. For any problems with variables in the denominator, assume that the denominator does not equal zero.",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "Every term has the common factor 8x . Pull this out and cancel. DRILL 9",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_33.png"
+  },
+  {
+    "question_number": 34,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "Begin by simplifying each fraction. Use the double-cross method to subtract.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_34.png"
+  },
+  {
+    "question_number": 35,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_35.png"
+  },
+  {
+    "question_number": 36,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "When subtracting fractions with more than one term in the numerator, put the subtracted term in parentheses to remind yourself to distribute the negative sign.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_36.png"
+  },
+  {
+    "question_number": 37,
+    "stem": "DRILL 10 Match the following expressions to their simplified forms. For any problems with variables in the denominator, assume that the denominator does not equal zero.",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "Don\u2019t stop yet! All three terms are divisible by 8. DRILL 10 38. (A) Simplify before you multiply. 39. (B) First, combine the like terms in the numerator of the first fraction and the denominator of the second fraction. If you like, rearrange to place the numbers and variables near each other (to minimize careless mistakes), then simplify. 40. (A) 6: Begin by simplifying the denominator. Dividing by is the same as multiplying by . 41. (C) Work from the inside out. First, combine the terms in the denominator. A numerator of 1 divided by a fraction is equal to the reciprocal of that fraction.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_4_37.png"
+  },
+  {
+    "question_number": 38,
+    "stem": "",
+    "statements": null,
+    "options": {},
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_4_38.png"
+  },
+  {
+    "question_number": 39,
+    "stem": "",
+    "statements": null,
+    "options": {},
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_4_39.png"
+  },
+  {
+    "question_number": 40,
+    "stem": "6",
+    "statements": null,
+    "options": {
+      "A": "4",
+      "B": "3"
+    },
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_4_40.png"
+  },
+  {
+    "question_number": 41,
+    "stem": "",
+    "statements": null,
+    "options": {
+      "C": ""
+    },
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_4_41.png"
+  },
+  {
+    "question_number": 11,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_5_11.png"
+  },
+  {
+    "question_number": 12,
+    "stem": "DRILL 4 Simplify the following expressions.",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_5_12.png"
+  },
+  {
+    "question_number": 13,
+    "stem": "14. 2.1 \u00d7 0.04 15. 0.6(50) + 0.25(120)",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_5_13.png"
+  },
+  {
+    "question_number": 16,
+    "stem": "17. 100 \u00d7 0.01 \u00d7 0.01 DRILL 5 18. Which of the following equals 4.672 \u00d7 104 ? 4,672",
+    "statements": null,
+    "options": {
+      "A": "46,720 0.0337 825 \u00d7 104 34.82 \u00d7 102 0.00001212 \u00d7 103 10% 163.63... 28 4.9 144 21 21 1",
+      "B": "467,200 0.0000337 825 \u00d7 103 34.82 \u00d7 104 0.01212 \u00d7 103 12.5% 200 72 6.9 300 364 42 28",
+      "C": "19. Which of the following equals 337 \u00d7 10\u22124 ? 3,370,000 20. Which of the following equals 8.25 \u00d7 105 ? 825 \u00d7 107 21. Which of the following equals 0.003482 ? 34.82 \u00d7 10\u2212 4 22. Which of the following equals 12.12 \u00d7 10\u2212 3 ? -1.21 \u00d7 103 DRILL 6 23. What is 15% of 40 ? 24. 12 is 5% of what number? 25. 4 is what percent of 32 ? 7.5% 20% 34. If 75 reduced by x percent is 54, what is the value of x ? 9 35. If x is 15% more than 20, what is 30% of x ? 0.9 36. What is 50% of 12% of 50 ? 3 37. What is 120% of 30% of 400 ? 24 38. If 45% of 80 is x percent more than 24, what is the value of x ? 39. 10% of 30% of what number is 200% of 6 ? 40. If q \u2260 0, what percent of 25% of q is q percent of 20 ? 41. If a \u2260 0, 200% of 4% of a is what percent of 42. If positive integer m is first increased by 20%, then decreased by 25%, and finally increased by 60%, the resulting number is what percent of m ? DRILL 8 43. A recipe calls for 1 cup of cheese and cup of sauce in order to make 1 pizza. If Bob used 15 cups of sauce to make pizzas, how many cups of cheese did he use? 44. On a safari, visitors saw only giraffes and lions. If they saw 7 giraffes for every 3 lions, and they saw 60 animals in total, how many lions did they see? 18 45. The ratio of oranges to peaches to strawberries in a fruit jam recipe is 2 : 3 : 6. If Rav uses four and a half peaches in the recipe, how many oranges and how many strawberries should Rav add? 46. A certain automotive dealer sells only cars and trucks and currently has 51 trucks for sale. If the ratio of cars for sale to trucks for sale is 1 to 3, how many cars are for sale? 47. Mustafa has invented a new dance in which he moves 3 steps forward for every 4 steps he moves back. If the dance requires 49 steps in total, how many steps forward has Mustafa taken at the completion of the dance? 7 48. A steel manufacturer combines 98 ounces of iron with 2 ounces of carbon to make 1 sheet of steel. How much iron, in ounces, is used in of a sheet of steel? 49. To make a 64-ounce smoothie, Malin must use 4 bananas, 2 apples, 6 cups of yogurt, and 8 teaspoons of protein powder. How many cups of yogurt will Malin need to make a 16-ounce smoothie?",
+      "D": "25%",
+      "E": "26. 7% of 9 is what percent of 7 ? 27. 25% of 30 is 75% of what number? 28. What percent of 6 is 37.5% of 160 ? 29. If 14 is added to 56, what is the percent increase? 30. What is the percent increase from 50 to 60 ? 31. What number is 40% more than 30 ? 32. What is 60% less than 60 ? DRILL 7 33. If m is reduced by 55%, the resulting number is 90. What is the value of m ? 40.5"
+    },
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_5_16.png"
+  },
+  {
+    "question_number": 10,
+    "stem": "11. \u2212(y )3 = \u221227",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_6_10.png"
+  },
+  {
+    "question_number": 12,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_6_12.png"
+  },
+  {
+    "question_number": 13,
+    "stem": "DRILL 3 Solve for x in the following equations. 14. 4(\u22123x \u2212 8) = 8(\u2212x + 9) 15. 3x + 7 \u2212 4x + 8 = 2(\u22122x \u2212 6) 16. 2x (4 \u2212 6) = \u22122x + 12",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_6_13.png"
+  },
+  {
+    "question_number": 17,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_6_17.png"
+  },
+  {
+    "question_number": 18,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_6_18.png"
+  },
+  {
+    "question_number": 19,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_6_19.png"
+  },
+  {
+    "question_number": 20,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_6_20.png"
+  },
+  {
+    "question_number": 21,
+    "stem": "DRILL 4 Solve for the values of both variables in each system of equations using substitution. The explanations will use substitution to solve. 22. 7x \u2212 3y = 5 y = 10 23. y = 4x + 10 y = 7x \u2212 5 24. 2h \u2212 4k = 0 k = h \u2212 3 25. 5x \u2212 3y = 17 2x \u2212 y = 8 26. 12b = 2g 4g \u2212 3b = 63 DRILL 5 Solve for the values of both variables in each system of equations using elimination. The explanations will use elimination to solve. 27. x \u2212 y = 4 2x + y = 5 28. x + 2y = 5 x \u2013 4y = \u20137 29. a + b = 8 2a + b = 13 30. 7m \u2013 2n = 1 3m + n = 6 31. y \u2212 2x \u2212 1 = 0 x \u2212 3y \u2212 1 = 0",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_6_21.png"
+  },
+  {
+    "question_number": 32,
+    "stem": "DRILL 6 Solve for the values of both variables in each system of equations. Decide whether to use substitution or elimination. The explanation will use one of the two methods and explain why that solution method was chosen.",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_6_32.png"
+  },
+  {
+    "question_number": 33,
+    "stem": "34. y \u2212 1 = x + 2 2y = x + 1 35. 8a \u2212 2b \u2212 5 = 0 2b + 4a \u2212 4 = 0 36. 3x = 6 \u2212 y 6x \u2212 y = 3",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_6_33.png"
+  },
+  {
+    "question_number": 37,
+    "stem": "DRILL 7 Solve for the indicated value in each system of equations. 38. 4x + y + 3z = 34 4x + 3z = 21 What is y ?",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_6_37.png"
+  },
+  {
+    "question_number": 39,
+    "stem": "If y \u2260 2, what is the value of x in terms of y and z ? 4yz \u2212 8z + 3",
+    "statements": null,
+    "options": {
+      "A": "4yz \u2212 5",
+      "B": "y \u2212 8z \u2212 3",
+      "C": "40. 3x + 5y + 2z = 20 6x + 4z = 10 What is y ?"
+    },
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_6_39.png"
+  },
+  {
+    "question_number": 41,
+    "stem": "What is b in terms of a ? DRILL 8 Solve for the indicated value in each system of equations.",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "To solve for b in terms of a , isolate b on one side of the equation, and put everything else on the other side. Furthermore, you will need to eliminate the variable c , because the question does not mention c . The second equation is already solved for c , so start by substituting b + 2 for c in the first equation. Great\u2014c is now gone. Now isolate b on one side of the equation. DRILL 8 42. 50: In order to find the value of a + b , you need to eliminate c and d from the first equation, but there are only two equations total. Is there a way to eliminate c + d at once? Try manipulating the second equation to give you c + d . 3d = 15 \u2212 3c 3c + 3d = 15 c + d = 5 Next, substitute c + d = 5 into the first equation and isolate a + b .",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_6_41.png"
+  },
+  {
+    "question_number": 42,
+    "stem": "If c \u2260 d , what is a + b ?",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_6_42.png"
+  },
+  {
+    "question_number": 43,
+    "stem": "What is z in terms of x ?",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "In order to solve for z in terms of x , isolate z on one side of an equation that has only one other variable, x . In other words, get rid of the y somehow. Therefore, kill off y by isolating it in the first equation. Now substitute. In the second equation, replace y with 5x . Finally, isolate z . 44. 18: In order to isolate z, you have to eliminate x and y . The combination x + y is in the exponent of the first equation, so try to isolate that same combination (or combo) in the second equation. x = 2 \u2212 y x + y = 2 In the first equation, substitute 2 for the combo x + y , then solve for z . 45. (B) Both equations contain a z , but the question stem asks only for x \u2212 y . How can you get rid of that z ? First, get rid of the fraction in the first equation. You could solve the second equation for z and then substitute. However, both equations now have a 4z term. You can directly substitute 3y for 4z into the equation to get rid of the z variable, then solve for x \u2212 y .",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_6_43.png"
+  },
+  {
+    "question_number": 44,
+    "stem": "What is z ?",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_6_44.png"
+  },
+  {
+    "question_number": 45,
+    "stem": "If z \u2260 \u22124, what is x \u2212 y ? 4z + 3",
+    "statements": null,
+    "options": {
+      "C": ""
+    },
+    "question_type": "MCQ",
+    "image_path": "images/q_FOM_6_45.png"
+  },
+  {
+    "question_number": 17,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_8_17.png"
+  },
+  {
+    "question_number": 18,
+    "stem": "DRILL 5 Solve the following inequalities. 19. 3(x \u2212 7) \u2265 9",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_8_18.png"
+  },
+  {
+    "question_number": 20,
+    "stem": "21. 2x \u2212 1.5 > 7",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_8_20.png"
+  },
+  {
+    "question_number": 22,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_8_22.png"
+  },
+  {
+    "question_number": 23,
+    "stem": "and x > 0 DRILL 6 Solve the following inequalities.",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "The answer can also be written as . Since x > 0, you can multiply both sides by 5x and keep the inequality sign as it is. DRILL 6 24. x > 9: Both sides of an inequality can be squared as long as both sides are positive. In this case, the square-root side of the equation must be positive because it is greater than the positive number 5, as indicated in the second step of the math. 25. x < \u22122: 26. x \u2264 16: If you are more comfortable working with fractions, convert 0.25 to before you solve. 0.25x \u2212 3 \u2264 1 0.25x \u2264 4 x \u2264 16 27. y \u2265 1: When you take a cube root, there is only one solution: The cube has the same sign as the cube root. In this case, the cube root of positive 27 is positive 3. 2(y + 2)3 \u2212 5 \u2265 49 2(y + 2)3 \u2265 54 (y + 2)3 \u2265 27 y + 2 \u2265 3 y \u2265 1 28. x \u2265 7: DRILL 7 29. x = 5 or \u22125: |x | = 5 +(x ) = 5 or \u2212x = 5 x = 5 x = \u22125 30. a = 3 or \u22123: |5a | = 15 +(5a ) = 15 or \u2212(5a ) = 15 5a = 15 \u22125a = 15 a = 3 a = \u22123 31. y = 4 or \u22125: |4y + 2| = 18 +(4y + 2) = 18 or \u2212(4y + 2) = 18 4y + 2 = 18 \u22124y \u2212 2 = 18 4y = 16 \u22124y = 20 y = 4 y = \u22125 32. x = \u22125 or 7: |1 \u2212 x | = 6 +(1 \u2212 x ) = 6 or \u2212(1 \u2212 x ) = 6 1 \u2212 x = 6 \u22121 + x = 6 \u2212x = 5 x = 7 x = \u22125 DRILL 8 33. x = 10 or \u22122: Isolate the absolute value first. Then split into two equations and solve. 3|x \u2212 4| = 18 |x \u2212 4| = 6 +(x \u2212 4) = 6 or \u2212(x \u2212 4) = 6 x \u2212 4 = 6 \u2212x + 4 = 6 x = 10 \u2212x = 2 x = \u22122 34. x = 3.2 or \u22123.8: Isolate the absolute value first. Then split into two equations and solve. 2|x + 0.3| = 7 |x + 0.3| = 3.5 +(x + 0.3) = 3.5 or \u2212(x + 0.3) = 3.5 x + 0.3 = 3.5 \u2212x \u2212 0.3 = 3.5 x = 3.2 \u2212x = 3.8 x = \u22123.8 35. z = 7 or |6z \u2212 3| = 4z + 11 or 36. x = \u221210 or \u221214: or DRILL 9 37. \u22124 < x < \u22122: Because the two solutions overlap, combine them into one inequality: x is greater than \u22124 and less than \u22122. |x + 3| < 1 +(x + 3) < 1 \u2212(x + 3) < 1 x + 3 < 1 \u2212x \u2212 3 < 1 x < \u22122 \u2212x < 4 x > \u22124 \u22124 < x < \u22122 38. \u22124 \u2264 y \u2264 1: If you prefer to write the variable on the left-hand side, you can flip the inequality, as shown in the last line of the left-hand math, below. If you choose to do this, make sure to flip not just the two sides of math but the inequality sign, as well. 5 \u2265 |2y + 3| \u22124 \u2264 y \u2264 1 39. b \u2265 3 or b \u2264 6 \u2264 |5b \u2212 9| 6 \u2264 +(5b \u2212 9) 6 \u2264 5b \u2212 9 15 \u2264 5b 3 \u2264 b b \u2265 3 or",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_8_23.png"
+  },
+  {
+    "question_number": 24,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_8_24.png"
+  },
+  {
+    "question_number": 25,
+    "stem": "26. 0.25x \u2212 3 \u2264 1 27. 2(y + 2)3 \u2212 5 \u2265 49",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_8_25.png"
+  },
+  {
+    "question_number": 28,
+    "stem": "DRILL 7 Solve the following absolute value equations. 29. |x | = 5 30. |5a | = 15 31. |4y + 2| = 18 32. |1 \u2212 x | = 6 DRILL 8 Solve the following absolute value equations. 33. 3|x \u2212 4| = 18 34. 2|x + 0.3| = 7 35. |6z \u2212 3| = 4z + 11",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_8_28.png"
+  },
+  {
+    "question_number": 36,
+    "stem": "DRILL 9 Solve each of the following inequalities. Then draw the solution on a number line. 37. |x + 3| < 1 38. 5 \u2265 |2y + 3| 39. 6 \u2264 |5b \u2212 9| 40. |\u221212a | < 15 DRILL 10 Solve each of the following inequalities. Then draw the solution on a number line. 41. |\u2212x | \u2265 6",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_8_36.png"
+  },
+  {
+    "question_number": 42,
+    "stem": "43. |z 3 | \u2264 27 44. |0.1x \u2212 3| \u2265 1",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_8_42.png"
+  },
+  {
+    "question_number": 45,
+    "stem": "DRILL 11 Solve each of the following inequalities. Then draw the solution on a number line.",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_8_45.png"
+  },
+  {
+    "question_number": 46,
+    "stem": "47. |3x \u2212 7| \u2265 2x + 12 48. |3 + 3x | < \u22122x 49. |\u22129 \u2212 5x | \u2264 \u22124x",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "image_path": "images/q_FOM_8_46.png"
+  },
+  {
+    "question_number": 50,
+    "stem": "",
+    "statements": {},
+    "options": {},
+    "question_type": "PS",
+    "official_explanation": "< y < 12: Isolate the absolute value, and then split into two equations to solve. Multiply the entire inequality by the common denominator of any fractions to get rid of all of the fractions.",
+    "correct_answer": null,
+    "image_path": "images/q_FOM_8_50.png"
+  }
+]

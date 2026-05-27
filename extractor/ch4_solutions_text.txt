@@ -1,0 +1,44 @@
+(C)
+6
+13.
+The amount of time that three people worked on a certain project was in the ratio of 2 : 3 : 5. If
+the project took 110 hours, what is the difference between the number of hours worked by the
+person who worked for the longest time and the person who worked for the shortest time?
+(A)
+22
+(B)
+33
+(C)
+55
+14.
+DS Challenge! Every game of chess that Artem played this month resulted in a win, a loss, or a
+tie. What fraction of the chess games that Artem played this month did he win?
+(1)
+The number of games that resulted in a tie was  of the number of games that Artem won.
+(2)
+Artem lost 
+ of the games.
+Solutions
+1.
+Increase: Multiplying the numerator of a positive fraction by a
+number greater than 1 increases the numerator. As the numerator of a
+positive fraction increases, its value increases.
+2.
+Increase: As the numerator of a positive fraction increases, the value
+of the fraction increases. As the denominator of a positive fraction
+decreases, the value of the fraction also increases. Both actions will
+work to increase the value of the fraction.
+3.
+Stay the same: Multiplying or dividing the numerator and
+denominator of a fraction by the same number is equivalent to
+multiplying by 1, so doing this will not change the value of the
+fraction.
+4.
+Decrease: Multiplying any positive number by a positive, proper
+fraction (a fraction between 0 and 1) decreases the number.
+5.
+Increase: Dividing a positive number by a positive, proper fraction (a
+fraction between 0 and 1) increases the number.
+6.
+100: Consider the first given, 48 : 2x, the ratio, and the second given,
+144 : 600, the actual. Put the info in a ratio table and find the

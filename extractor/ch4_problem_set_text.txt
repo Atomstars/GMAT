@@ -1,0 +1,26 @@
+You could write it this way:
+The number 13 is 30% greater than the number 10, so this ratio fits the
+given information. And, if you know the two parts of the ratio, then you can
+find the ratio total:
+As a result, the ratio of apple pies to total pies (a : t) is 10 : 23. Statement
+(2) is sufficient to answer the question.
+If you know a ratio, you can find a fraction using the ratio total. For
+example, 10 out of 23 total pies are apple, so the fraction of apple pies is 
+.
+Also note that, although statement (2) allows you to determine the relative
+value, it does not provide enough information to calculate the actual
+number of pies. If the question had asked for a concrete number, such as the
+number of apple pies, you would have needed to use both statements to
+solve.
+Problem Set
+Note: On Quant problems, the GMAT will always provide exactly five answer choices. In this guide,
+however, you will sometimes encounter multiple-choice problems with fewer than five answer
+choices.
+For problems 1–5, decide whether the given operation will cause the original value to increase,
+decrease, or stay the same.
+1.
+Multiply the numerator of a positive fraction by  .
+2.
+Add 1 to the numerator of a positive fraction and subtract 1 from its denominator.
+3.
+Multiply both the numerator and denominator of a positive fraction by 3 .

@@ -1,0 +1,250 @@
+[
+  {
+    "chapter_number": 1,
+    "title": "How Quant and DI Work",
+    "start_page": 29,
+    "problem_set_page": null,
+    "solutions_page": null,
+    "end_page": 47
+  },
+  {
+    "chapter_number": 2,
+    "title": "Math Fundamentals",
+    "start_page": 48,
+    "problem_set_page": 58,
+    "solutions_page": 59,
+    "end_page": 62
+  },
+  {
+    "chapter_number": 3,
+    "title": "Data Sufficiency 101",
+    "start_page": 63,
+    "problem_set_page": 108,
+    "solutions_page": 109,
+    "end_page": 113
+  },
+  {
+    "chapter_number": 4,
+    "title": "Fractions and Ratios",
+    "start_page": 114,
+    "problem_set_page": 138,
+    "solutions_page": 140,
+    "end_page": 146
+  },
+  {
+    "chapter_number": 5,
+    "title": "Strategy: Estimation",
+    "start_page": 147,
+    "problem_set_page": 156,
+    "solutions_page": 158,
+    "end_page": 161
+  },
+  {
+    "chapter_number": 6,
+    "title": "Percents",
+    "start_page": 162,
+    "problem_set_page": 174,
+    "solutions_page": 176,
+    "end_page": 188
+  },
+  {
+    "chapter_number": 7,
+    "title": "Strategy: Arithmetic vs. Algebra 101",
+    "start_page": 189,
+    "problem_set_page": 218,
+    "solutions_page": 221,
+    "end_page": 230
+  },
+  {
+    "chapter_number": 8,
+    "title": "Table Analysis",
+    "start_page": 231,
+    "problem_set_page": null,
+    "solutions_page": null,
+    "end_page": 258
+  },
+  {
+    "chapter_number": 9,
+    "title": "Digits and Decimals",
+    "start_page": 259,
+    "problem_set_page": 269,
+    "solutions_page": 270,
+    "end_page": 271
+  },
+  {
+    "chapter_number": 10,
+    "title": "Graphics Interpretation",
+    "start_page": 272,
+    "problem_set_page": null,
+    "solutions_page": null,
+    "end_page": 308
+  },
+  {
+    "chapter_number": 11,
+    "title": "Linear Equations and Combos",
+    "start_page": 309,
+    "problem_set_page": 322,
+    "solutions_page": 324,
+    "end_page": 329
+  },
+  {
+    "chapter_number": 12,
+    "title": "Exponents",
+    "start_page": 330,
+    "problem_set_page": 344,
+    "solutions_page": 345,
+    "end_page": 351
+  },
+  {
+    "chapter_number": 13,
+    "title": "Roots",
+    "start_page": 352,
+    "problem_set_page": 362,
+    "solutions_page": 363,
+    "end_page": 366
+  },
+  {
+    "chapter_number": 14,
+    "title": "Quadratic Equations",
+    "start_page": 367,
+    "problem_set_page": 377,
+    "solutions_page": 378,
+    "end_page": 381
+  },
+  {
+    "chapter_number": 15,
+    "title": "Formulas",
+    "start_page": 382,
+    "problem_set_page": 390,
+    "solutions_page": 391,
+    "end_page": 395
+  },
+  {
+    "chapter_number": 16,
+    "title": "Inequalities and Max/Min",
+    "start_page": 396,
+    "problem_set_page": 406,
+    "solutions_page": 408,
+    "end_page": 416
+  },
+  {
+    "chapter_number": 17,
+    "title": "Translations",
+    "start_page": 417,
+    "problem_set_page": 437,
+    "solutions_page": 439,
+    "end_page": 445
+  },
+  {
+    "chapter_number": 18,
+    "title": "Multi-Source Reasoning",
+    "start_page": 446,
+    "problem_set_page": null,
+    "solutions_page": null,
+    "end_page": 473
+  },
+  {
+    "chapter_number": 19,
+    "title": "Statistics",
+    "start_page": 474,
+    "problem_set_page": 482,
+    "solutions_page": 483,
+    "end_page": 487
+  },
+  {
+    "chapter_number": 20,
+    "title": "Weighted Averages",
+    "start_page": 488,
+    "problem_set_page": 501,
+    "solutions_page": 502,
+    "end_page": 506
+  },
+  {
+    "chapter_number": 21,
+    "title": "Two-Part Analysis",
+    "start_page": 507,
+    "problem_set_page": null,
+    "solutions_page": null,
+    "end_page": 528
+  },
+  {
+    "chapter_number": 22,
+    "title": "Rates and Work",
+    "start_page": 529,
+    "problem_set_page": 548,
+    "solutions_page": 550,
+    "end_page": 557
+  },
+  {
+    "chapter_number": 23,
+    "title": "Overlapping Sets",
+    "start_page": 558,
+    "problem_set_page": 567,
+    "solutions_page": 568,
+    "end_page": 570
+  },
+  {
+    "chapter_number": 24,
+    "title": "Strategy: Arithmetic vs. Algebra 201",
+    "start_page": 571,
+    "problem_set_page": 583,
+    "solutions_page": 585,
+    "end_page": 592
+  },
+  {
+    "chapter_number": 25,
+    "title": "Consecutive Integers",
+    "start_page": 593,
+    "problem_set_page": 600,
+    "solutions_page": 600,
+    "end_page": 603
+  },
+  {
+    "chapter_number": 26,
+    "title": "Logic Problems",
+    "start_page": 604,
+    "problem_set_page": 631,
+    "solutions_page": 632,
+    "end_page": 641
+  },
+  {
+    "chapter_number": 27,
+    "title": "Divisibility and Primes",
+    "start_page": 642,
+    "problem_set_page": 656,
+    "solutions_page": 657,
+    "end_page": 661
+  },
+  {
+    "chapter_number": 28,
+    "title": "Odds, Evens, Positives, and Negatives",
+    "start_page": 662,
+    "problem_set_page": 671,
+    "solutions_page": 672,
+    "end_page": 673
+  },
+  {
+    "chapter_number": 29,
+    "title": "Combinatorics",
+    "start_page": 674,
+    "problem_set_page": 683,
+    "solutions_page": 684,
+    "end_page": 685
+  },
+  {
+    "chapter_number": 30,
+    "title": "Probability",
+    "start_page": 686,
+    "problem_set_page": 692,
+    "solutions_page": 693,
+    "end_page": 695
+  },
+  {
+    "chapter_number": 31,
+    "title": "Coordinate Plane",
+    "start_page": 696,
+    "problem_set_page": 709,
+    "solutions_page": 709,
+    "end_page": null
+  }
+]

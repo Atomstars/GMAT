@@ -1,0 +1,193 @@
+1 | Cover Page | 1
+1 | Title Page | 2
+1 | Copyright Page | 4
+1 | Strategy Guides | 5
+1 | Letter | 6
+1 | Table of Contents | 8
+1 | The GMAT Mindset | 16
+1 | UNIT ONE: Sentence Correction | 20
+1 | Chapter 1: The Sentence Correction Process | 22
+2 | The Sentence Correction Process | 22
+2 | Question Format | 23
+2 | “Best” Does Not Mean Ideal | 36
+2 | Sentence Correction Timing | 36
+2 | Using and Improving Your Ear for Sentence Correction | 38
+2 | How to Get Better at the Sentence Correction Process | 40
+1 | Chapter 2: Grammar and Meaning | 47
+2 | Grammar: A Closer Look | 49
+2 | Meaning: A Closer Look | 55
+2 | Connect, or Match, the Words | 57
+2 | Say It Once: Avoid Redundancy | 58
+2 | Place Your Words | 60
+2 | Choose Your Words | 62
+2 | Problem Set | 64
+2 | Solutions | 66
+1 | Chapter 3: Sentence Structure | 71
+2 | Subject and Verb Must Both Exist | 72
+2 | Subject and Verb Must Agree in Number | 73
+2 | Eliminate the Middlemen and Skip the Warm-Up | 76
+2 | Use Structure to Decide | 78
+2 | Mid-Chapter Quiz: Test Your Skills | 80
+2 | The Sentence Core | 82
+2 | Two Independent Clauses | 83
+2 | Adding Modifiers | 88
+2 | Problem Set | 89
+2 | Solutions | 91
+1 | Chapter 4: Modifiers | 96
+2 | Adjectives and Adverbs | 99
+2 | Modifier vs. Core: Part 1 | 102
+2 | Noun Modifiers | 108
+2 | Noun Modifier Markers: Which, That, Who, and More | 111
+2 | Adverbial Modifiers | 114
+2 | Modifier Markers: Prepositions | 115
+2 | Modifier Markers: –ing and –ed Words | 117
+2 | Modifier vs. Core: Part 2 | 122
+2 | Modifier Markers: Subordinators | 125
+2 | Quantity | 130
+2 | Problem Set | 134
+2 | Solutions | 137
+1 | Chapter 5: Parallelism | 145
+2 | Markers and Elements | 146
+2 | The Root Phrase | 149
+2 | Closed vs. Open Markers ªªÿªª80 | 152
+2 | The Many Parallel Structures of the Word And | 155
+2 | Idioms with Built-In Parallel Structure | 158
+2 | Problem Set | 159
+2 | Solutions | 162
+1 | Chapter 6: Comparisons | 167
+2 | Comparison Markers | 168
+2 | Omitted Words | 171
+2 | Like vs As | 172
+2 | The Many Uses of the Word As | 174
+2 | Comparative and Superlative Forms | 176
+2 | Problem Set | 178
+2 | Solutions | 180
+1 | Chapter 7: Pronouns | 186
+2 | The Antecedent Must Exist and Be Sensible | 188
+2 | The Antecedent and Pronoun Must Agree in Number | 189
+2 | The Deadly Five: It, Its, They, Them, Their | 190
+2 | This, That, These, and Those | 191
+2 | Some Ambiguity Is Acceptable | 193
+2 | Problem Set | 195
+2 | Solutions | 197
+1 | Chapter 8: Verbs | 202
+2 | Simple Tenses | 204
+2 | Make Tenses Reflect Meaning | 204
+2 | The Perfect Tenses: An Introduction | 206
+2 | Past Perfect: The Earlier Action | 206
+2 | Present Perfect: Bridging Past and Present | 208
+2 | –ing Modifiers: Follow the Main Verb | 212
+2 | Present to Future or Past to Conditional | 213
+2 | Active and Passive Voice | 215
+2 | Problem Set | 217
+2 | Solutions | 219
+1 | Chapter 9: Idioms | 226
+2 | Spot–Extract–Replace | 227
+2 | Idiom List | 228
+2 | Problem Set | 238
+2 | Solutions | 240
+1 | UNIT TWO: Reading Comprehension | 244
+1 | Chapter 10: The Foundation ÿØªÿU155 | 245
+2 | How Reading Comprehension Works | 247
+2 | Find the Simple Story | 249
+2 | 4 Steps to the Simple Story | 255
+2 | Answer the Question | 256
+1 | Chapter 11: Breaking Down the Passage | 260
+2 | Engage with the Passage | 261
+2 | Passage Components | 262
+2 | Language Clues | 267
+2 | Optional Strategy: Breaking Down Complex Sentences | 272
+2 | Problem Set | 277
+2 | Solutions | 284
+1 | Chapter 12: Mapping the Passage | 286
+2 | Why Use a Passage Map? | 287
+2 | Making the Passage Map | 288
+2 | Common Notations | 295
+2 | Problem Set | 296
+2 | Solutions | 304
+1 | Chapter 13: General Questions | 307
+2 | 4 Steps to the Answer | 308
+2 | Practice Passage: Insect Behavior | 309
+2 | Primary Purpose Questions | 313
+2 | Paragraph Questions | 315
+2 | Primary Purpose Cheat Sheet | 318
+2 | Problem Set | 319
+2 | Solutions | 327
+1 | Chapter 14: Specific Questions | 342
+2 | 4 Steps to the Answer | 343
+2 | Practice Passage: Electroconvulsive Therapy | 345
+2 | Detail Questions | 349
+2 | Inference Questions | 353
+2 | Specific Purpose Questions | 358
+2 | EXCEPT Questions | 362
+2 | Specific Question Cheat Sheet | 364
+2 | Problem Set | 366
+2 | Solutions | 375
+1 | Chapter 15: Extra Problem Set | 397
+2 | Problem Set | 398
+2 | Solutions | 411
+1 | UNIT THREE: Critical Reasoning | 445
+1 | Chapter 16: Argument Structure | 447
+2 | The Core | 451
+2 | Building Blocks of an Argument | 452
+2 | Signal Words | 455
+2 | Intermediate Conclusions and the Therefore Test | 457
+2 | Common Argument Types | 462
+2 | Answers to Pop Quiz | 465
+2 | Argument Structure Cheat Sheet | 467
+2 | Problem Set | 469
+2 | Solutions | 470
+1 | Chapter 17: Methodology | 476
+2 | Step 1: Identify the Question | 478
+2 | Step 2: Deconstruct the Argument | 482
+2 | Step 3: State the Goal | 485
+2 | Step 4: Work from Wrong to Right | 486
+2 | Exercise: Identify the Question | 494
+2 | Methodology Cheat Sheet | 496
+2 | Problem Set | 498
+2 | Solutions | 499
+1 | Chapter 18: Structure-Based Family | 504
+2 | Describe the Role | 505
+2 | Describe the Argument | 515
+2 | Exercise: Understanding Answer Choices | 522
+2 | Describe the Role Cheat Sheet | 525
+2 | Describe the Argument Cheat Sheet | 525
+2 | Problem Set | 526
+2 | Solutions | 533
+1 | Chapter 19: The Assumption Family: Find the Assumption | 551
+2 | How Assumptions Work | 552
+2 | Exercise: Brainstorm Assumptions | 556
+2 | Assumption Family Questions | 559
+2 | Find the Assumption Questions | 559
+2 | The Negation Technique | 565
+2 | Find the Assumption Cheat Sheet | 569
+2 | Problem Set | 570
+2 | Solutions | 574
+1 | Chapter 20: The Assumption Family: Strengthen and Weaken | 585
+2 | Strengthen and Weaken: The Basics | 586
+2 | Strengthen the Argument Questions | 589
+2 | Weaken the Argument Questions | 601
+2 | EXCEPT Questions | 612
+2 | Strengthen the Argument Cheat Sheet | 617
+2 | Weaken the Argument Cheat Sheet | 618
+2 | Problem Set | 619
+2 | Solutions | 627
+1 | Chapter 21: The Assumption Family: Evaluate the Argument and Find the Flaw | 651
+2 | Evaluate the Argument Questions | 653
+2 | The Strengthen/Weaken Strategy | 653
+2 | Find the Flaw Questions | 661
+2 | Evaluate the Argument Cheat Sheet | 668
+2 | Find the Flaw Cheat Sheet | 669
+2 | Problem Set | 669
+2 | Solutions | 674
+1 | Chapter 22: Evidence Family | 688
+2 | What Are Inferences? | 689
+2 | Inference Questions | 690
+2 | Explain a Discrepancy | 698
+2 | EXCEPT Questions | 703
+2 | Inference Cheat Sheet | 704
+2 | Explain a Discrepancy Cheat Sheet .444 | 705
+2 | Problem Set | 706
+2 | Solutions | 710
+1 | Appendix A: Idioms | 723
+1 | Appendix B: Glossary | 760

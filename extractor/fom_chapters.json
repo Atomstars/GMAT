@@ -1,0 +1,82 @@
+[
+  {
+    "chapter_number": 1,
+    "title": "Arithmetic",
+    "start_page": 18,
+    "problem_set_page": 82,
+    "solutions_page": 87,
+    "end_page": 97
+  },
+  {
+    "chapter_number": 2,
+    "title": "Divisibility",
+    "start_page": 98,
+    "problem_set_page": 145,
+    "solutions_page": 151,
+    "end_page": 163
+  },
+  {
+    "chapter_number": 3,
+    "title": "Exponents and Roots",
+    "start_page": 164,
+    "problem_set_page": 212,
+    "solutions_page": 222,
+    "end_page": 234
+  },
+  {
+    "chapter_number": 4,
+    "title": "Fractions and Ratios",
+    "start_page": 235,
+    "problem_set_page": 294,
+    "solutions_page": 304,
+    "end_page": 317
+  },
+  {
+    "chapter_number": 5,
+    "title": "Fractions, Decimals, Percents, and Ratios",
+    "start_page": 318,
+    "problem_set_page": 378,
+    "solutions_page": 389,
+    "end_page": 413
+  },
+  {
+    "chapter_number": 6,
+    "title": "Equations",
+    "start_page": 414,
+    "problem_set_page": 457,
+    "solutions_page": 465,
+    "end_page": 488
+  },
+  {
+    "chapter_number": 7,
+    "title": "Quadratic Equations",
+    "start_page": 489,
+    "problem_set_page": 534,
+    "solutions_page": 540,
+    "end_page": 548
+  },
+  {
+    "chapter_number": 8,
+    "title": "Inequalities and Absolute Value",
+    "start_page": 549,
+    "problem_set_page": 569,
+    "solutions_page": 577,
+    "end_page": 589
+  },
+  {
+    "chapter_number": 9,
+    "title": "Word Problems",
+    "start_page": 590,
+    "problem_set_page": 634,
+    "solutions_page": 646,
+    "end_page": 673
+  },
+  {
+    "chapter_number": 10,
+    "title": "Geometry",
+    "start_page": 674,
+    "problem_set_page": 796,
+    "solutions_page": null,
+    "end_page": null
+  }
+]

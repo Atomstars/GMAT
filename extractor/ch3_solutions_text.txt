@@ -1,0 +1,34 @@
+$9, then the price of one pound of apples must be $2, the difference
+between those two totals.
+The correct answer is (D): Each statement works alone.
+2.
+(C): First, understand. Let V be the number of books Val carried in his
+backpack today. The question stem indicates that V ≥ 1; jot that down.
+Value question: What is the value of V ?
+Plan. For each statement, look to see if multiple values for V are valid.
+If only one value is valid, the statement is sufficient.
+(1) INSUFFICIENT: V could be 8, but V could also be 16. Since there
+are two different answers, this statement is not sufficient; cross off
+answers (A) and (D).
+(2) INSUFFICIENT: V could be any value from 1 to 14. Since there are
+multiple different answers, this statement is not sufficient; cross off
+answer (B).
+(1) AND (2) SUFFICIENT: Return to the Plan step and remind yourself
+of the combined constraints. Positive integers only. Multiple of 8. Less
+than 15. What cases can you test?
+V could be 8, but the next multiple of 8 is 16 . . . but this fails the
+constraint that V < 15. There’s no other case to test; the only answer is
+8, so together, the two statements work.
+The correct answer is (C): The two statements work together but neither
+one works alone.
+3.
+(C): First, understand the question stem. This is a DS Choose One
+problem; the answer can be dahlias, sunflowers, or zinnias—whichever
+type of flower had the greatest total cost.
+Plan. What will determine the total cost? For each flower type, the total
+cost will be the number of flowers of that type times the price per
+flower for that type. The question does not ask for the total cost itself,
+but you need to see which flower type has the greatest product of price
+per flower and number of flowers.
+(1) INSUFFICIENT: This tells you nothing about the price per flower
+for any type. Eliminate answers (A) and (D).

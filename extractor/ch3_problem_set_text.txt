@@ -1,0 +1,47 @@
+Problem Set
+As you solve each problem, focus on solidifying your DS process. Before you check your answers,
+review your work. Did you write down (and use) your answer grid? Did you look at each statement
+separately before looking at them together? Did you mix up or skip any of the steps of the process?
+You may want to rewrite your work before you review the answers.
+The five answer choices for every problem are as follows. (Note: In future problem sets, the answer
+choices for DS problems will not be given.)
+(A)
+Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient
+(B)
+Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient
+(C)
+BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is
+sufficient.
+(D)
+EACH statement ALONE is sufficient.
+(E)
+Statements (1) and (2) TOGETHER are NOT sufficient.
+1.
+Lora purchased 2 pounds of apples and 1 pound of oranges for $7. What was the cost per pound
+of apples?
+(1)
+The cost per pound of oranges was $3.
+(2)
+Had Lora purchased one more pound of apples, she would have spent $9 in total.
+2.
+If Val always carries at least one book in his backpack, how many books did he carry in his
+backpack today?
+(1)
+The number of books Val carried in his backpack today was a multiple of 8.
+(2)
+The number of books Val carried in his backpack today was less than 15.
+3.
+Tino purchased three types of flowers—dahlias, sunflowers, and zinnias—to create a bouquet. On
+which of the three types of flowers for this bouquet did Tino spend the greatest amount of money?
+(1)
+Half of the flowers in the bouquet were zinnias.
+(2)
+The prices per flower for dahlias, sunflowers, and zinnias were in the ratio 3:2:4,
+respectively.
+4.
+At a certain clothing store, a sweater, a jacket, and a hat cost $300 in total. What is the price of the
+sweater?
+(1)
+The price of the jacket is the average of the prices of the sweater and the hat.
+(2)
+The price of the sweater is the average of the prices of the jacket and the hat.
