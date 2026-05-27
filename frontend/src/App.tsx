@@ -8,7 +8,7 @@ import type { Section, Category, Chapter, Exercise, Question, SubmissionResult }
 function useTimer() {
   const [seconds, setSeconds] = useState(0);
   const [running, setRunning] = useState(false);
-  const ref = useRef<ReturnType<typeof setInterval>>();
+  const ref = useRef<ReturnType<typeof setInterval> | null>(null);
   const reset = useCallback(() => { setSeconds(0); }, []);
   const start = useCallback(() => { setRunning(true); }, []);
   const stop = useCallback(() => { setRunning(false); }, []);
@@ -454,7 +454,6 @@ function AnalyticsPage() {
   const accuracy = summary.total_attempts > 0
     ? Math.round((summary.correct_attempts / summary.total_attempts) * 100)
     : 0;
-  const maxAttempts = Math.max(...categories.map((c: any) => c.attempts), 1);
 
   return (
     <div>
