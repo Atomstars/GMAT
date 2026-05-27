@@ -241,22 +241,3 @@ export function AiPanel() {
   );
 }
 
-function getMockResponse(msg: string, context: ReturnType<typeof useAiStore>["context"]): string {
-  const lc = msg.toLowerCase();
-  if (lc.includes("explain") || lc.includes("differently")) {
-    return "Sure! Let me break it down step by step. The key insight here is to work backwards from what you're given. Start by isolating the variable, then apply the arithmetic — you'll find the answer follows naturally. Would you like me to walk through it with numbers?";
-  }
-  if (lc.includes("similar") || lc.includes("more")) {
-    return "Great idea! Here's a similar question: If 4y − 3 = 17, what is 8y + 2? Try it yourself first — the approach is identical to this one. Hint: isolate y first, then substitute.";
-  }
-  if (lc.includes("wrong") || lc.includes("incorrect")) {
-    return "The most common trap here is rushing the arithmetic. Students often forget to apply the second operation correctly. Always re-read what the question is actually asking for — it's not asking for x, it's asking for 6x − 4.";
-  }
-  if (lc.includes("concept") || lc.includes("teach")) {
-    return "This is a linear equation question. The GMAT loves to give you x and ask for an expression involving x. The trick: you rarely need to solve for x explicitly. Try to transform what you have directly into what they want.";
-  }
-  if (lc.includes("strategy")) {
-    return "For these, use the '2-step approach': ① Solve the given equation for x (or the key variable). ② Plug directly into the target expression. Avoid over-complicating — GMAT arithmetic is always clean integers.";
-  }
-  return "That's a great question! In GMAT Focus, understanding the underlying concept is more important than memorizing steps. Let me know if you'd like a deeper explanation or a similar practice question.";
-}
