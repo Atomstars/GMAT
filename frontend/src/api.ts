@@ -27,7 +27,9 @@ export type AnalyticsCategory = {
 };
 
 async function get<T>(path: string): Promise<T> {
-  const res = await fetch(`${BASE_URL}${path}`);
+  const res = await fetch(`${BASE_URL}${path}`, {
+    headers: { "Bypass-Tunnel-Reminder": "true" }
+  });
   if (!res.ok) throw new Error(`API error: ${res.status}`);
   return res.json() as Promise<T>;
 }
@@ -35,7 +37,10 @@ async function get<T>(path: string): Promise<T> {
 async function post<T>(path: string, body: object): Promise<T> {
   const res = await fetch(`${BASE_URL}${path}`, {
     method: "POST",
-    headers: { "Content-Type": "application/json" },
+    headers: {
+      "Content-Type": "application/json",
+      "Bypass-Tunnel-Reminder": "true"
+    },
     body: JSON.stringify(body),
   });
   if (!res.ok) throw new Error(`API error: ${res.status}`);
