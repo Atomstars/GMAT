@@ -137,7 +137,7 @@ function QuestionView({
         {/* Image */}
         {question.image_path && (
           <img
-            src={`http://127.0.0.1:8000/images/${question.image_path.replace("images/", "")}`}
+            src={api.imageUrl(question.image_path)}
             alt="Question diagram"
             className="question-image"
             onError={(e) => { (e.target as HTMLImageElement).style.display = "none"; }}
